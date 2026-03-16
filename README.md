@@ -30,8 +30,7 @@ Power Systems Engineer with over 4 years of experience in renewable energy integ
 |----|----|---------------------------------------------------------|
 |2023|present|**PhD, Power Systems** Washington State University|
 |	 |	  |GPA: 4.0|
-|	 |	  |Design of algorithms for aggregating and quantifying DER flexibility, facilitating consumer
-participation in distribution markets through demand response initiatives.|
+|	 |	  |Design of algorithms for aggregating and quantifying DER flexibility, facilitating consumer participation in distribution markets through demand response initiatives.|
 |2020|2022|**M.Tech. Power Systems** National Institute of Technology Calicut|
 |	 |	  |CGPA: 9.47 *Institute Gold Medalist*|
 |	 |	  |Thesis title: Coordinated Control Strategy for Frequency Support in Wind Turbine Generators.|
